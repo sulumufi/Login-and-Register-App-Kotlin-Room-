@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Database App</string>
+    <string name="FirstNameText">First Name :</string>
+    <string name="FirstNameTextField">Enter First Name</string>
+    <string name="SecondNameTextField">Enter Second Name</string>
+    <string name="LastNameText">Last Name :</string>
+    <string name="EmailText">Email :</string>
+    <string name="UserMailId">Enter Email</string>
+    <string name="submitButton">Register</string>
+    <string name="List_of_Users_text">List Of Registered Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PasswordText">Password:</string>
+    <string name="PasswordTextFiels">Enter Password</string>
+    <string name="UserNameTextView">User Name:</string>
+    <string name="UsernameTextField">Enter User Name</string>
+    <string name="backButton">Back</string>
+    <string name="Login_text">Login</string>
+    <string name="Login_button">Login</string>
+    <string name="signupText">Sign Up!</string>
+</resources>
